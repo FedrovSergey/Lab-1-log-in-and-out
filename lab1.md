@@ -1,3 +1,5 @@
+![задание](https://github.com/FedrovSergey/Lab-1-log-in-and-out/blob/main/lab1/pictures/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png)
+
 Создание системы http аутентификации
 
 Возможности и особенности системы: 
